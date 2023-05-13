@@ -4,6 +4,10 @@
 Je suis un développeur français passionné par la création de bots Discord et le développement Web avec HTML et CSS. J'ai créé un serveur GTA nommé Freakshop LS, où les joueurs peuvent explorer et s'amuser dans un environnement ouvert. J'adore apprendre de nouvelles technologies et partager mes connaissances avec les autres développeurs.
 
 ---
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rouya0014&label=Profile%20views&color=0e75b6&style=flat" alt="Rouya0014" /> </p>
+
+---
 ### 🧰 Langage et outils
 <div>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -32,3 +36,7 @@ Je suis un développeur français passionné par la création de bots Discord et
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
+
+---
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rouya0014&show_icons=true&theme=white&locale=fr" alt="Rouya0014" /></p>
+
