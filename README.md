@@ -1,4 +1,4 @@
-# 👨‍ Rouya
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+i'm+_Rouya+welcome+to+my+github)](https://git.io/typing-svg)
 **Étudiant (Développeur/ Administrateur réseaux)**
 
 Je suis un développeur français passionné par la création de bots Discord et le développement Web avec HTML et CSS. J'ai créé un serveur GTA nommé Freakshop LS, où les joueurs peuvent explorer et s'amuser dans un environnement ouvert. J'adore apprendre de nouvelles technologies et partager mes connaissances avec les autres développeurs.
