@@ -24,17 +24,11 @@ Je suis un développeur français passionné par la création de bots Discord et
 
 ---
 
-###  💬 Mes réseaux sociaux + Communautés
+###  💬 Discord
 
 <div>
-  <a href="https://www.youtube.com/channel/UC_Tmtnijm-Ux2ev9oC8sTyw" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://discord.gg/8XVqCEeUDm" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://twitter.com/El_Rouya" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  <a href="https://discord.com/users/338749657972998156" target="_blank">
+    <img src="https://lanyard.cnrad.dev/api/338749657972998156"  />
   </a>
 </div>
 
