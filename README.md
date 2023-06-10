@@ -3,14 +3,11 @@
 ---
                                                                                                          
 <div>                                                                                                                               <div align="center">
-<h3>Contact İnformation</h3>
+<h3>Réseaux sociaux</h3>
 <a href="https://twitter.com/El_Rouya"><img src="https://i.imgur.com/zVwbWwf.png" alt="sayrixfx" width="37" height="37" /></a> 
 <a href="https://www.youtube.com/@_rouya"><img src="https://i.imgur.com/qZBU7AO.png" alt="sayrix" width="37"  height="37" /></a> 
 <a href="https://discord.gg/r2TbJRsNeF"><img src="https://i.imgur.com/nsVOefF.png" alt="jNKdusJ" width="37" height="37" /></a>
 <a href="https://www.youtube.com/@_rouya"><img src="https://i.imgur.com/V2reDJm.png" alt="sayrix" width="37"  height="37" /></a> 
-<a href="https://steamcommunity.com/profiles/76561198956339494/"><img src="https://i.imgur.com/FkpKhXM.png" alt="s4yrix" width="37" height="37" /></a>
-<a href="https://socialclub.rockstargames.com/member/__Rouya/"><img src="https://i.imgur.com/DersdIi.png" alt="jNKdusJ" width="37" height="37" /></a>
-<a href="https://ubisoftconnect.com/fr-FR/profile/Rouya_"><img src="https://i.imgur.com/8S3hxmE.png" alt="s4yrix" width="37" height="37" /></a>
 </div>
 
 
