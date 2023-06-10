@@ -20,14 +20,12 @@ Je suis un développeur français passionné par la création de bots Discord et
   <a href="https://discord.com/users/338749657972998156">
     <img src="https://lanyard.cnrad.dev/api/338749657972998156"  />
   </a>
-  <br>
-  <a href="https://discord.gg/WHJDmQYUSC">
-    <img src="https://cdn.discordapp.com/attachments/1055095464380338178/1113576997248053380/Sans_titre-2.png"  />
-  </a>
 </div>
 
 ---
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rouya0014&show_icons=true&theme=tokyonight&locale=fr" alt="Rouya0014" /></p>
 <br>
 <p> <img src="https://komarev.com/ghpvc/?username=Rouya0014&label=Profile%20views&color=0e75b6&style=flat" alt="Rouya0014" /> </p>
-
+<div>
+<img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:00c7ad,75:6e97fd,100:5d52ac" width = "100%""  />
+</div>
