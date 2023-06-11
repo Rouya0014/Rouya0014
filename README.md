@@ -24,7 +24,7 @@
 <h3>📊 Statistiques Github</h3>
   <div><img src="https://komarev.com/ghpvc/?username=Rouya0014&label=PROFILE+VIEWS&color=grey"/></div>
   <img src="https://github-readme-stats.vercel.app/api?username=Rouya0014&count_private=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=79a3fb&text_color=42bdae&icon_color=c18ff1&locale=fr" width="%100" height="150px">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rouya0014&layout=compact&theme=nord&hide_border=true&bg_color=0d1117&border_radius=6&title_color=FFFFFF" width="%100" height="150px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rouya0014&layout=compact&theme=nord&hide_border=true&bg_color=0d1117&border_radius=6&title_color=FFFFFF&locale=fr" width="%100" height="150px">
 </a>
 
 ---
