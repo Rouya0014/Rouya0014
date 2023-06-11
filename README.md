@@ -13,9 +13,7 @@
 
 <div align="center">
 <h3>🧰 Langage et outils</h3>
-<a <img src="https://img.shields.io/badge/JavaScript%20-111111.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"> </a>
-
-<img src="https://media.discordapp.net/attachments/1055095464380338178/1113573663061573652/Sans_titre-1.png"  />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,py,mongodb,vscode,git,ps,linux" alt="skill badges icons" />
 </div>
 
 ---
