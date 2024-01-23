@@ -5,7 +5,6 @@
 <div>                                                                                                                               <div align="center">
 <h3>Réseaux sociaux</h3>
 <a href="https://twitter.com/El_Rouya"><img src="https://i.imgur.com/zVwbWwf.png" alt="sayrixfx" width="37" height="37" /></a> 
-<a href="https://www.youtube.com/@_rouya"><img src="https://i.imgur.com/qZBU7AO.png" alt="sayrix" width="37"  height="37" /></a> 
 <a href="https://discord.gg/r2TbJRsNeF"><img src="https://i.imgur.com/nsVOefF.png" alt="jNKdusJ" width="37" height="37" /></a>
 </div>
 
