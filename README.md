@@ -11,7 +11,7 @@
 
 <div align="center">
 <h3>🧰 Langage et outils</h3>
-<img src="https://skillicons.dev/icons?i=html,css,js,php,py,mongodb,vscode,git,ps,linux" alt="skill badges icons" />
+<img src="https://skillicons.dev/icons?i=html,css,js,php,py,mongodb,vscode,discordjs,ps,ai,debian,linux,kali" alt="skill badges icons" />
 </div>
 
 ---
