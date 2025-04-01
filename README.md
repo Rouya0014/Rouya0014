@@ -7,7 +7,7 @@
 <div align="center">
 <h3>☁️ Virtualized Infrastructure Platforms</h3>
 <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/66cd5f54-830b-44ff-9a5f-b06af5be5fc7/dh87zio-c6721a69-5745-47dd-bf0c-266912268261.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzY2Y2Q1ZjU0LTgzMGItNDRmZi05YTVmLWIwNmFmNWJlNWZjN1wvZGg4N3ppby1jNjcyMWE2OS01NzQ1LTQ3ZGQtYmYwYy0yNjY5MTIyNjgyNjEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.UNFPOU_Djj8vPZIH2dzTuLBc1YYKbeUU417OcPv03cg" height="48" width="48"/> ‎ <img src="https://skillicons.dev/icons?i=docker,openstack,openshift,azure" alt="skill badges icons" />‎ ‎ 
-<h3>🧰 Operating system</h3>
+<h3>🖥️ Operating system</h3>
 <img src="https://skillicons.dev/icons?i=windows,redhat,debian,kali" alt="skill badges icons" />‎ ‎
 </div>
 <h3>🧰 Tools</h3>
@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">
-<h3>🧰 Langages</h3>
+<h3>📜 Langages</h3>
 <img src="https://skillicons.dev/icons?i=bash,powershell,php,mysql,py,html,css,js,discordjs" alt="skill badges icons" />
 </div>
 
