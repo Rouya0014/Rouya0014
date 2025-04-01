@@ -16,7 +16,7 @@
 
 <div align="center">
 <h3>📜 Langages</h3>
-<img src="https://skillicons.dev/icons?i=bash,powershell,php,mysql,py,html,css,js,discordjs" alt="skill badges icons" />
+<img src="https://skillicons.dev/icons?i=bash,powershell,php,mysql,py,html,css,js" alt="skill badges icons" />
 </div>
 
 ---
