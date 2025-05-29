@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+i'm+_Rouya+welcome+to+my+github+ https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Typing SVG" />
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hey+i'm+_Rouya+welcome+to+my+github" alt="Typing SVG" />
 
 ---
                                                                                                          
@@ -28,13 +28,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rouya0014&layout=compact&theme=nord&hide_border=true&bg_color=0d1117&border_radius=6&title_color=FFFFFF&locale=fr" width="%100" height="150px">
 </a>
 
----
 
-<div align="center">
-<h3>💬 Discord</h3>
-   <a href="https://discord.com/users/338749657972998156">
-    <img src="https://lanyard.cnrad.dev/api/338749657972998156"  />
-  </a>
-</div>
 <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:00c7ad,75:6e97fd,100:5d52ac" width = "100%""  />
 </div>
