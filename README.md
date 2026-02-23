@@ -28,9 +28,6 @@
 ### 📜 Automation & Scripting
 <img src="https://go-skill-icons.vercel.app/api/icons?i=bash,powershell" height="48" alt="scripting"/>
 
-### 🛠️ Tools & Documentation
-<img src="https://go-skill-icons.vercel.app/api/icons?i=visio,word,excel" height="48" alt="tools"/>
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:00c7ad,75:6e97fd,100:5d52ac" width = "100%""  />
 </a>
