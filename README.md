@@ -19,7 +19,7 @@
 <img src="https://i.imgur.com/lYz7Tff.png" height="48" alt="stormshield"/>
 
 ### 🌐 Web Services & Databases
-<img src="https://go-skill-icons.vercel.app/api/icons?i=nginx,apache,mariadb" height="48" alt="web-db"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=nginx,apache,sqlserver,mongodb" height="48" alt="web-db"/>
 
 ### 👁️ Monitoring
 <img src="https://go-skill-icons.vercel.app/api/icons?i=zabbix" height="48" alt="zabbix"/>
